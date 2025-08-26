@@ -1,0 +1,11 @@
+/* arquivo: styles.css */
+.my-button {
+    -fx-background-color: #5587C4; /* cor normal */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+	-fx-background-radius: 15;
+}
+
+.my-button:hover {
+    -fx-background-color: #86A4F0; /* cor ao passar o mouse */
+}
