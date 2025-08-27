@@ -4,7 +4,7 @@ Welcome to the **Bank Interface JavaFX** project! 🏦💻
 
 This project is a desktop banking application developed using **JavaFX** and managed with **Gradle**. It provides a simple and intuitive interface for managing bank accounts, performing PIX transactions, and viewing transaction history. 📊💳
 
-## Imagens:
+## 📷 Imagens:
 
 <img width="1366" height="704" alt="Captura de tela de 2025-08-26 19-20-24" src="https://github.com/user-attachments/assets/1f599b43-9e3f-4622-bbce-81d03688c74d" />
 
